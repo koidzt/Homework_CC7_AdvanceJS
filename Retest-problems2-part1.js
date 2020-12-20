@@ -252,7 +252,7 @@ function answer11() {
       }
     }
   }
-  console.locg(`exercise 11\nlistNum =${rawList}\n result = ${sortListNum}`);
+  console.log(`exercise 11\nlistNum =${rawList}\n result = ${sortListNum}`);
   alert(`exercise 11\nlistNum = ${rawList}\n sort = ${sort}\nresult = ${sortListNum}`);
 }
 
